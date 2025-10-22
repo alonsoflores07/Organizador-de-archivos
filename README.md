@@ -44,3 +44,6 @@ Descargas/
 │   └── setup.exe
 ├── Otros/
 │   └── script.py
+
+Autor:
+Alonso — apasionado por la automatización práctica, la experiencia del usuario y el aprendizaje autónomo. Este proyecto forma parte de mi evolución como desarrollador reflexivo y orientado a soluciones reales.
